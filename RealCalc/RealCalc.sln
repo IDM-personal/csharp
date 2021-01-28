@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealCalc", "RealCalc\RealCalc.csproj", "{508BB33D-59B9-4ADE-80F8-67500BE698FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508BB33D-59B9-4ADE-80F8-67500BE698FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508BB33D-59B9-4ADE-80F8-67500BE698FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508BB33D-59B9-4ADE-80F8-67500BE698FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508BB33D-59B9-4ADE-80F8-67500BE698FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0E300B-1E5E-435E-BFC8-AB6C6530B6F1}
+	EndGlobalSection
+EndGlobal

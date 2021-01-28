@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.Form1.resources
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.Properties.Resources.resources
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\bin\Debug\RealCalc.exe.config
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\bin\Debug\RealCalc.exe
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\bin\Debug\RealCalc.pdb
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.exe
+C:\Users\Alumno\source\repos\csharp\RealCalc\RealCalc\obj\Debug\RealCalc.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\bin\Debug\Messagebox.exe.config
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\bin\Debug\Messagebox.exe
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\bin\Debug\Messagebox.pdb
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.Form1.resources
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.Properties.Resources.resources
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.exe
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.pdb
+C:\Users\Alumno\source\repos\csharp\Messagebox\Messagebox\obj\Debug\Messagebox.csprojAssemblyReference.cache
