@@ -1,0 +1,9 @@
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\bin\Debug\RadialButtons.exe.config
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\bin\Debug\RadialButtons.exe
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\bin\Debug\RadialButtons.pdb
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\obj\Debug\RadialButtons.Form1.resources
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\obj\Debug\RadialButtons.Properties.Resources.resources
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\obj\Debug\RadialButtons.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\obj\Debug\RadialButtons.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\obj\Debug\RadialButtons.exe
+C:\Users\Alumno\source\repos\csharp\RadialButtons\RadialButtons\obj\Debug\RadialButtons.pdb
